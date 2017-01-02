@@ -67,9 +67,9 @@ sigmasolaire=5e-2*sqrt(fe);
 global Cd
 Cd=2.2;
 
-%% ===Tables de B===
-global B_tab; % A REFAIRE + LA DERIVEE
-B_tab = textread('dataMag.csv','','delimiter',';');
+% %% ===Tables de B===
+% global B_tab; % A REFAIRE + LA DERIVEE
+% B_tab = textread('dataMag.csv','','delimiter',';');
 
 %===Etat Initial===
 fprintf('==============================================\n');
