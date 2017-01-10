@@ -6,17 +6,17 @@ For information about the QB50 project and our work at Mines ParisTech, the stud
 [here](https://sites.google.com/site/20142015gr02/) (in french only).
 
 Our group was divided into four teams:
-	- the mechanical team
-	- the software team
-	- the ground station team
-	- the ADCS team which I led
+- the mechanical team
+- the software team
+- the ground station team
+- the ADCS team which I led
 
 The goal of the ADCS team was to provide the necessary algorithms to ensure the
 good behavior of the satellite in orbit: i.e we had to design an observer to
 estimate the state of the satellite (its attitude) and a controller to control
 it.
 More information about this work can be found in our
-[report]((https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnwyMDE0MjAxNWdyMDJ8Z3g6NjdhZWIxMzg2MjJkODRlMw) (still in french).
+[report](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnwyMDE0MjAxNWdyMDJ8Z3g6NjdhZWIxMzg2MjJkODRlMw) (still in french).
 
 # Running the code
 
